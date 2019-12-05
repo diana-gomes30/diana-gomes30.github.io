@@ -1,0 +1,100 @@
+body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    .margin {
+      margin-bottom: 45px;
+    }
+
+    .home h1 {
+        font-size: 75px;
+        color: #000000;
+    }
+
+    .home h3 {
+        font-size: 40px;
+        color: #000000;
+    }
+
+    .bg-1 {
+      justify-content: center;
+      margin: auto;
+      height: 700px;
+    }
+    
+    .bg-1 img {
+        height: 325px;
+        width: 100%;
+    }
+
+    .bg-2 {
+      background-color: #474e5d;
+      color: #ffffff;
+      height: 700px;
+      margin: auto;
+    }
+
+    .bg-3 {
+      background-color: #ffffff;
+      color: #000000;
+      height: 550px;
+      margin: auto;
+    }
+
+    .bg-3 img {
+        margin: auto;
+    }
+
+    .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+    }
+
+    .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 15px;
+      letter-spacing: 5px;
+      background-color: #ffffff;
+    }
+
+    .navbar-nav li a {
+      color: white;
+    }
+
+    .navbar-nav li a:hover {
+      color: #1abc9c !important;
+    }
+
+    #footer {
+      display: flex;
+      background-color: #474e5d;
+      padding: 50px 0px;
+      color: #ffffff;
+      align-self: center;
+    }
+
+    .social {
+        align-self: center;
+        justify-self: flex-end;
+        margin: auto;
+        text-align: center;
+        color: #ffffff;
+    }
+
+    .footer-info {
+        align-self: center;
+        justify-self: flex-end;
+        margin: auto;
+        text-align: center;
+        color: #ffffff;
+    }
